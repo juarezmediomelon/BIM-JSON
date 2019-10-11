@@ -1,12 +1,14 @@
 {
-  "invFecIni": "2019-10-08",
-  "invFecVen": "2019-10-09",
-  "invCuenta" : "001935000013"
-  "invGat": 8.63,
-  "invGatRea": 4.69,
-  "plazo": 1,
-  "intBru": 8.30,
-  "invIntNet": 0,
-  "invISRTot": 0,
-  "invTotal": 322.67
+  "inversion": {
+    "invFecIni": "2019-10-08",
+    "invFecVen": "2019-10-09",
+    "invCuenta" : "001935000013",
+    "invGat": 8.63,
+    "invGatRea": 4.69,
+    "plazo": 1,
+    "intBru": 8.30,
+    "invIntNet": 0,
+    "invISRTot": 0,
+    "invTotal": 322.67
+  }
 }
